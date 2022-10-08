@@ -12,7 +12,7 @@
 - ❓ Ask me about anything related to HTML5, CSS3 and Javascript  
   
 
-- ⚡ Fun fact: I preferer Tweeter over Instagram   
+- ⚡ Fun fact: I preferer Twitter over Instagram   
   
 
 <br/>  
