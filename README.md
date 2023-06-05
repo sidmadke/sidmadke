@@ -89,7 +89,11 @@
 <br/>  
 
 
-## Github Stats  
+<h2> Github Stats </h2>
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=sidmadke&show_icons=true&hide_border=true&count_private=true&theme=dark" alt="Github Stats" height="180px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sidmadke&show_icons=true&hide_border=true&locale=en&layout=compact&theme=dark" alt="sidmadke" height="180px">
+</p>
  
 
 <br/>  
