@@ -85,8 +85,8 @@
 
 ## Github Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sidmadke&show_icons=true&count_private=true&hide_border=true&theme=highcontrast" align="center" style="width: 450px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidmadke&hide_border=true&layout=compact&theme=highcontrast" align="center" style="width: 400px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sidmadke&show_icons=true&count_private=true&hide_border=true&theme=highcontrast" align="center" style="width: 350px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidmadke&hide_border=true&layout=compact&theme=highcontrast" align="center" style="width: 310px" />
 </div>   
 
 <br/>  
